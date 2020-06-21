@@ -4,7 +4,7 @@
         [
             "@babel/plugin-transform-runtime",
             {
-                regenerator: true
+                "regenerator": true
             }
         ],
         "@babel/plugin-proposal-optional-chaining",
@@ -12,7 +12,7 @@
             "css-modules-transform",
             {
                 "extractCss": {
-                    "devMode": true,
+                    "devMode": false,
                     "dir": "./styles/",
                     "relativeRoot": "./src/package",
                     "filename": "[path]/[name].css"
