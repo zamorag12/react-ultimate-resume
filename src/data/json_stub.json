@@ -1,209 +1,173 @@
 {
     "basics": {
-        "name": "John Doe",
-        "label": "Programmer",
-        "picture": "",
-        "email": "john.doe@mail.com",
-        "phone": "(912) 555-4321",
-        "website": "http://johndoe.com",
-        "summary": "A summary of John Doe...",
+        "name": "Gustavo Zamora",
+        "label": "Senior QA Analyst from 🇬🇹",
+        "picture": "https://assets-site-fact-inv.s3.us-east-2.amazonaws.com/IMG_1962.PNG",
+        "email": "zamorag_12@me.com",
+        "phone": "(502) 2212-4578",
+        "website": "https://snaptechgt.com",
+        "summary": "A summary of Gustavo Zamora...",
         "location": {
-            "address": "2712 Broadway St",
-            "postalCode": "CA 94115",
-            "city": "San Francisco",
-            "countryCode": "US",
-            "region": "California"
+            "address": "Guatemala",
+            "postalCode": "01000",
+            "city": "Guatemala",
+            "countryCode": "GT",
+            "region": "Guatemala"
         },
         "profiles": [
             {
                 "network": "Twitter",
                 "username": "john",
-                "url": "http://twitter.com/john"
+                "url": "http://twitter.com/zamorag_12"
             }
         ]
     },
     "work": [
         {
-            "name": "Company 2 ",
-            "position": "Worker",
+            "name": "DTI / DSI (Landivar University, Guatemala)",
+            "position": "QA / DEVELOPER",
             "website": "http://company.com",
-            "startDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "startDate": "2014-08-01",
+            "endDate": "2016-10-01",
+            "summary": "Great experience working in the Landivar University as QA and as well as developer.",
+            "location": "Guatemala, Guatemala",
+            "highlights": ["The Journey begins"]
         },
         {
-            "name": "What a nice office",
-            "position": "President",
+            "name": "Osigu",
+            "position": "QA Analyst / Full Stack Java Developer",
             "website": "http://company.com",
-            "startDate": "2013-01-01",
-            "endDate": "2014-01-01",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "startDate": "2016-10-01",
+            "endDate": "2019-09-01",
+            "summary": "Improved a lot by learning new methods in development as well QA automation.",
+            "location": "Guatemala, Guatemala",
+            "highlights": [
+                "Having a great time with new friends and coding reviews as well improving to see software in other perspective"
+            ]
         },
         {
-            "name": "What a nice experience",
-            "position": "Lead dev",
-            "website": "http://company.com",
-            "summary": "Description...",
-            "location": "Paris, France",
-            "highlights": ["Started the company"]
+            "name": "Current position",
+            "position": "Senior QA Analyst",
+            "website": "https://www.cartfulsolutions.com/",
+            "summary": "Coding, checking tickets and having fun with Python automation ",
+            "location": "US (Remote from GT)",
+            "highlights": ["Happy to be here"]
         }
     ],
     "volunteer": [
         {
-            "organization": "Organization",
+            "organization": "Un techo para mi país",
             "position": "Volunteer",
-            "website": "http://organization.com/",
-            "endDate": "2013-01-01",
-            "summary": "Description...",
-            "highlights": ["Awarded 'Volunteer of the Month'"]
+            "website": "http://www.techo.org",
+            "endDate": "2012-04-01",
+            "summary": "1 Week helping to build houses for people who need it",
+            "highlights": ["Happy to help in this organization"]
         }
     ],
     "education": [
         {
-            "institution": "ISEN",
-            "area": "Software Development",
+            "institution": "Landivar University (GT)",
+            "area": "Software Engineer",
             "studyType": "Engineer Degree",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "startDate": "2012-01-01",
+            "endDate": "2018-05-01",
             "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "courses": ["Software Engineer"]
         },
         {
-            "institution": "Université d'artois",
-            "area": "",
-            "studyType": "",
-            "startDate": "2011-01-01",
-            "endDate": "",
+            "institution": "UNIR",
+            "area": "Software Engineer",
+            "studyType": "Master Degree",
+            "startDate": "2018-11-01",
+            "endDate": "2020-01-01",
             "gpa": "4.0",
-            "courses": ["DB1101 - Basic SQL"]
+            "courses": ["Software Engineer / IT Managment"]
         }
     ],
-    "awards": [
-        {
-            "title": "Award",
-            "date": "2014-11-01",
-            "awarder": "Company",
-            "summary": "There is no spoon."
-        }
-    ],
-    "publications": [
-        {
-            "name": "Publication",
-            "publisher": "Company",
-            "releaseDate": "2014-10-01",
-            "website": "http://publication.com",
-            "summary": "Description..."
-        }
-    ],
+    "awards": [],
+    "publications": [],
     "skills": [
         {
-            "name": "Reactaaa",
+            "name": "Java",
             "level": "Master",
-            "value": 100,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "value": 90,
+            "keywords": ["Spring Boot", "Docker", "JPA"]
         },
         {
-            "name": "Angular",
+            "name": "HTML5",
             "level": "Master",
             "value": 80,
             "keywords": ["HTML", "CSS", "Javascript"]
         },
         {
-            "name": "NodeJS",
+            "name": "Python",
             "level": "Master",
-            "value": 40,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "value": 80,
+            "keywords": ["Automation in Python", "Selenium WebDriver", "Javascript"]
         },
         {
-            "name": "Firebase",
+            "name": "DynamoDB",
             "level": "Master",
             "value": 60,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["NoSQL", "QA"]
         },
         {
-            "name": "Gmail",
-            "level": "Master",
-            "value": 20,
-            "keywords": ["HTML", "CSS", "Javascript"]
-        },
-        {
-            "name": "K8S",
+            "name": ".NET",
             "level": "Master",
             "value": 80,
-            "keywords": ["HTML", "CSS", "Javascript"]
+            "keywords": ["Web Forms", "CSS", "ASPX"]
         }
     ],
-    "languages": [{ "language": "English", "value": 100, "fluency": "Native speaker" }],
+    "languages": [
+        { "language": "Spanish", "value": 100, "fluency": "Native speaker" },
+        { "language": "English", "value": 75, "fluency": "Medium level" }
+    ],
     "interests": [
         {
-            "name": "Burritos",
-            "gifUrl": "https://media.giphy.com/media/d8WjGORtSEWqc/giphy.gif"
+            "name": "Soccer / Real Madrid",
+            "gifUrl": "https://media.giphy.com/media/5zqbFE9OeohmDgUClh/giphy.gif"
         },
         {
-            "name": "Dogs",
-            "gifUrl": "https://media.giphy.com/media/3o85xsGXVuYh8lM3EQ/giphy.gif"
+            "name": "Singer / Bass Player @CFB Church (GT)",
+            "gifUrl": "https://media.giphy.com/media/5zqbFE9OeohmDgUClh/giphy.gif"
         },
         {
-            "name": "Tendresse",
-            "gifUrl": "https://media.giphy.com/media/EehnUUCH2JcwU/giphy.gif"
-        },
-        {
-            "name": "Something",
-            "gifUrl": "https://media.giphy.com/media/xTiTnIuKP1BLsMTerS/giphy.gif"
-        },
-        {
-            "name": "J'aime faire de la course à pied et des randonnées en famille le weekend."
+            "name": "Ephesians 1:3, NIV; Praise be to the God and Father of our Lord Jesus Christ, who has blessed us in the heavenly realms with every spiritual blessing in Christ"
         }
     ],
-    "references": [{ "name": "Jane Doe", "reference": "Reference..." }],
+    "references": [],
     "projects": [
         {
-            "index": 2,
-            "name": "1 Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
-            "images": []
-        },
-        {
             "index": 0,
-            "name": "2 Développement d'un serpent connecté",
-            "description": "Et oui, vous avez bien entendu !\nUn serpent connecté, c'est comme une montre connectée, mais en serpent, en fait ça ressemble pas une montre, mais ça reste connecté 🚀",
+            "name": "Invoices / Inventary System",
+            "description": "Starting to develop a project for Invoices / Inventary System (snaptechgt.com) 🚀",
             "images": []
         }
     ],
     "specific": {
         "basics": {
             "visaSponsorship": true,
-            "personalDescription": "This is a longer description of me, of my backstory, my backyard, my backfire, my backend, my frontend and my friends."
+            "personalDescription": "Declare blessings in your life #GodIsAwesome."
         },
         "dreamJob": {
-            "locations": [
-                { "name": "Valenciennes, France" },
-                { "name": "Lille, France" },
-                { "name": "Paris,France" },
-                { "name": "Paris,France" },
-                { "name": "Lille, France" },
-                { "name": "Valenciennes, France" }
-            ],
-            "remoteFrequency": "regularly"
+            "locations": [{ "name": "New York, US" }],
+            "remoteFrequency": "full"
         },
         "currentJob": {
-            "issues": { "boring_management": true, "boring_team": true }
+            "issues": { "boring_management": false, "boring_team": false }
         },
-        "education": { "studiesLevel": 5 },
+        "education": { "studiesLevel": 3 },
         "work": {
             "contractTypes": ["permanent"],
-            "codingYears": 7,
-            "codingReason": "J'ai commencé à coder sur Amstrad dans ma cave et je n'ai jamais arrêté depuis",
-            "searchState": "activelySearching",
-            "experienceYears": 9
+            "codingYears": 5,
+            "codingReason": "I've always love tech, since hacking with Cydia my iPhone when I was 15 years old.",
+            "searchState": "dreamjobOnly",
+            "experienceYears": 5
         },
         "sound": {
-            "embedUrl": "https://open.spotify.com/embed/playlist/37i9dQZF1DWWl7MndYYxge"
+            "embedUrl": "https://open.spotify.com/playlist/1SncKBiUyJAuOQ8Ui89xoF?si=QKgCJUIhRlOeBhKPQgDgFg"
         },
-        "interestedBy": "Angular, la blochain et les chatons."
+        "interestedBy": "Learning deeper JS and improve in React."
     },
     "resumeCustomization": {
         "imageHeader": {
