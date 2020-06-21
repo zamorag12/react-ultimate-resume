@@ -162,10 +162,13 @@
         "dreamJob": {
             "locations": [
                 {
+                    "name": "Europe (Spain or Netherlands)"
+                },
+                {
                     "name": "New York, US"
                 }
             ],
-            "remoteFrequency": "full"
+            "remoteFrequency": "fullTime"
         },
         "currentJob": {
             "issues": {
