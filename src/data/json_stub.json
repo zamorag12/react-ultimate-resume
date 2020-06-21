@@ -154,7 +154,7 @@
     ],
     "specific": {
         "basics": {
-            "visaSponsorship": true,
+            "visaSponsorship": false,
             "personalDescription": "Declare blessings in your life #GodIsAwesome."
         },
         "dreamJob": {
