@@ -119,8 +119,16 @@
         }
     ],
     "languages": [
-        { "language": "Spanish", "value": 100, "fluency": "Native speaker" },
-        { "language": "English", "value": 75, "fluency": "Medium level" }
+        {
+            "language": "Spanish",
+            "value": 100,
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "value": 75,
+            "fluency": "Medium level"
+        }
     ],
     "interests": [
         {
@@ -150,13 +158,22 @@
             "personalDescription": "Declare blessings in your life #GodIsAwesome."
         },
         "dreamJob": {
-            "locations": [{ "name": "New York, US" }],
+            "locations": [
+                {
+                    "name": "New York, US"
+                }
+            ],
             "remoteFrequency": "full"
         },
         "currentJob": {
-            "issues": { "boring_management": false, "boring_team": false }
+            "issues": {
+                "boring_management": false,
+                "boring_team": false
+            }
         },
-        "education": { "studiesLevel": 3 },
+        "education": {
+            "studiesLevel": 3
+        },
         "work": {
             "contractTypes": ["permanent"],
             "codingYears": 5,
@@ -171,24 +188,97 @@
     },
     "resumeCustomization": {
         "imageHeader": {
-            "url": "https://cdn.filestackcontent.com/8I2wVnCRTFxypXRYLRsp",
-            "alt": "Default Banner"
+            "url": "https://assets-site-fact-inv.s3.us-east-2.amazonaws.com/dev.jpg",
+            "alt": ""
         },
         "cardsOrder": [
-            { "type": "basics", "variant": 4 },
-            { "type": "projects", "variant": 4 },
-            { "type": "skills", "variant": 0 },
-            { "type": "dreamjob", "variant": 4 },
-            { "type": "experiences", "variant": 4 },
-            { "type": "studies", "variant": 4 },
-            { "type": "gifs", "variant": 0 },
-            { "type": "interestedBy", "variant": 3 },
-            { "type": "language", "variant": 4 },
-            { "type": "soundtrack", "variant": 4 }
+            {
+                "type": "basics",
+                "variant": 4
+            },
+            {
+                "type": "projects",
+                "variant": 4
+            },
+            {
+                "type": "skills",
+                "variant": 0
+            },
+            {
+                "type": "dreamjob",
+                "variant": 4
+            },
+            {
+                "type": "experiences",
+                "variant": 4
+            },
+            {
+                "type": "studies",
+                "variant": 4
+            },
+            {
+                "type": "gifs",
+                "variant": 0
+            },
+            {
+                "type": "interestedBy",
+                "variant": 3
+            },
+            {
+                "type": "language",
+                "variant": 4
+            },
+            {
+                "type": "soundtrack",
+                "variant": 4
+            }
         ],
         "fields": {
             "work": {
                 "customDateFormat": "YYYY"
+            }
+        },
+        "theme": {
+            "palette": {
+                "primary": {
+                    "50": "#e8f0f0",
+                    "100": "#d1e1e1",
+                    "200": "#a4c2c4",
+                    "300": "#76a4a6",
+                    "400": "#498589",
+                    "500": "#1b676b",
+                    "600": "#165256",
+                    "700": "#103e40",
+                    "800": "#0b292b",
+                    "900": "#051515",
+                    "contrastDefaultColor": "light"
+                },
+                "secondary": {
+                    "50": "#eef4ed",
+                    "100": "#dceada",
+                    "200": "#b9d5b6",
+                    "300": "#97bf91",
+                    "400": "#74aa6d",
+                    "500": "#519548",
+                    "600": "#41773a",
+                    "700": "#31592b",
+                    "800": "#203c1d",
+                    "900": "#101e0e",
+                    "contrastDefaultColor": "light"
+                },
+                "tertiary": {
+                    "50": "#f3f9e9",
+                    "100": "#e7f3d3",
+                    "200": "#cfe7a8",
+                    "300": "#b8dc7c",
+                    "400": "#a0d051",
+                    "500": "#88c425",
+                    "600": "#6d9d1e",
+                    "700": "#527616",
+                    "800": "#364e0f",
+                    "900": "#1b2707",
+                    "contrastDefaultColor": "light"
+                }
             }
         }
     }
