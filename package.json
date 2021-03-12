@@ -2,7 +2,7 @@
     "name": "@welovedevs/react-ultimate-resume",
     "version": "1.1.1",
     "description": "Developer profile for W3D",
-    "main": "lib/index.js", 
+    "main": "lib/index.js",
     "homepage": "https://zamorag12.github.io/react-ultimate-resume/",
     "engines": {
         "node": "12.20.2"
