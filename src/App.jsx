@@ -22,7 +22,7 @@ const mergeFunction = (objValue, srcValue) => {
     return undefined;
 };
 
-const mode = 'readOnly';
+const mode = process.env.REACT_APP_MODE || 'edit';
 
 function App() {
     const classes = useStyles();
@@ -54,7 +54,7 @@ function App() {
             onEdit={onEdit}
             onCustomizationChanged={onCustomizationChanged}
             options={{
-                // locale: 'tr',
+                locale: 'en',
                 // side: 'back',
                 apiKeys: {
                     giphy: process.env.REACT_APP_GIPHY
@@ -65,7 +65,9 @@ function App() {
                 },
                 // dismissFooter : true
                 // showContactInfos: true,
+                // maxSkills: 6,
                 customization,
+                disableSortableExperience: false,
                 maxCardsPerRow: 3
             }}
             additionalNodes={{
