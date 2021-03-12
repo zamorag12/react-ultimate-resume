@@ -5,7 +5,7 @@
     "main": "lib/index.js", 
     "homepage": "https://zamorag12.github.io/react-ultimate-resume/",
     "engines": {
-        "node": "10.19.0"
+        "node": "12.20.2"
     },
     "scripts": {
         "start": "touch .env.local && sh -ac 'sh .env.${NODE_ENV:-local}; PORT=${PORT:-3000} EXTEND_ESLINT=true BROWSER=none react-scripts start'",
